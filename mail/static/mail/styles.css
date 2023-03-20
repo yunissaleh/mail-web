@@ -1,0 +1,16 @@
+body {
+    margin: 20px;
+}
+textarea {
+    min-height: 400px;
+}
+.item {
+    display: inline;
+    padding-right: 10px;
+}
+.date {
+    float: right;
+}
+.list-group-item {
+    border-radius: 5px;
+}
