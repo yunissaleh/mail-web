@@ -8,4 +8,4 @@ This is a web-based email client application that provides the following functio
 - Reply: Users can reply to an email.
 
 # Technologies used
-Django, Python, JavaScript, Bootstrap, CSS, HTML, SQLite
+- Django, Python, JavaScript, Bootstrap, CSS, HTML, SQLite
